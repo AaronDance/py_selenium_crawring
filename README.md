@@ -1,2 +1,2 @@
-# py_selenium_crawring
-# Python Selenium 브라우저를 통한 크롤링 테스트
+# Python Selenium Crawring Test
+### Python Selenium 브라우저를 통해 크롤링을 한다
